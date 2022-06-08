@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoHeader heder snapshot 1`] = `
+<header class="header">
+  <h1>待办</h1> <input data-testid="new-todo" autofocus="autofocus" placeholder="需要做什么？" class="new-todo">
+</header>
+`;
