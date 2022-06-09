@@ -19,7 +19,6 @@ jobs:
       - name: Install and Build
         run: |
           npm install
-          npm run coverage
           npm run build
 
       # 发布到 GitHub Pages
